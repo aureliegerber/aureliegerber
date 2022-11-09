@@ -20,7 +20,8 @@
 - 😉 I’m Aurélie Gerber
 - 👩‍💻 I work as a junior web developer
 - 🌿 I specialize in eco-conception
-- ⛰️ I am passionate about the mountains
+- ⛰️ Respect for life in all its forms and sobriety have been at the heart of my life for many years.
+I wanted to give meaning to my programming skills acquired in my mathematics course by working for the digital and ecological transition. That's why I develop today eco-responsible websites.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/aur%C3%A9lie-gerber/">
     <img src="https://img.shields.io/badge/Aurélie-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
